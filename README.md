@@ -27,6 +27,9 @@ Example: ./m3uascan.py -l 192.168.1.1 -p 2905 -r 179.0.0.0/16 -P 2906 -o output.
 Or you can opt-out "-P" and use the built-in sctp ports in the script
 
 Disclaimair: sctp ports were taken from the SCTPscanner provided by P1Security. Along with pysctp.py. Credit goes to P1Security on both 
+## ☕ Support Me, Support Rifky The Cyber YouTube Channel
+
+If you find this tool helpful and would like to support its development, you can buy me a coffee!
 
 **[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
 
